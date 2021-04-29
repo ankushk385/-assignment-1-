@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 667,
+      "name": "arun kumar ",
+      "job": "ios developer"
+    },
+    {
+      "id": 270,
+      "name": "jimmy ",
+      "job": "web developer"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
